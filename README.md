@@ -1,16 +1,24 @@
-# Java MySQL - Blog Web Project
+# Java JSP-Servlet-MySQL - Blog Web Project
 
 -------Açıklama--------
 
 
-## Kullanılan Diller ve Yetenekler
+## Users on Systems
 
-| Dil / Yetenek | :arrow_right: | % |
-| ------------- |:-------------:|:-------------:|
-| Java  | :arrow_right: | 60 |
-| HTML5 | :arrow_right: | 15 |
-| CSS   | :arrow_right: | 15 |
-| MySQL | :arrow_right: | 25 |
+| Username  | Password |
+| ------------- |:-------------:|
+| eymen      | 12345     |
+| eymen123   | 12345     |
+
+#### Programming Languages and Libraries
+- :arrow_right: Java
+- :arrow_right: MySQL
+- :arrow_right: CSS
+- :arrow_right: HTML
+- :arrow_right: JavaScript
+- :arrow_right: Servlet
+
+## Application Images
 
 <p>
   
