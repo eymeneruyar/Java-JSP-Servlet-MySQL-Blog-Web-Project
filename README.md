@@ -12,7 +12,7 @@ Finally, this project is developed by using Intelij IDE. I essentially use Java 
 | Username  | Password |
 | ------------- |:-------------:|
 | ````eruyareymen@gmail.com````      | 12345     |
-| ````ali@mail.com````   | 12345     |
+| ````ali@mail.com````               | 12345     |
 
 #### Programming Languages and Libraries
 - :arrow_right: Java
@@ -20,7 +20,9 @@ Finally, this project is developed by using Intelij IDE. I essentially use Java 
 - :arrow_right: CSS
 - :arrow_right: HTML
 - :arrow_right: JavaScript
+- :arrow_right: BootStrap
 - :arrow_right: Servlet
+- :arrow_right: Hibernate
 
 ## Application Images
 
