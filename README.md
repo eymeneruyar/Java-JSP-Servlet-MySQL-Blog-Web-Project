@@ -1,14 +1,18 @@
 # Java JSP-Servlet-MySQL - Blog Web Project
 
--------Açıklama--------
+# Abstract
+"My Blog" web project is developed to share articles about technology, design, and space. There are six sections in the web page. These sections; Home, About us, Blog, Team, Call us and Login. If you are administor or author, can add, edit and delete blog article. 
 
+# General Information about Application
+You can build your World with this project. Firstly, you must sign into with your email and password. After successfully login account, you can write, update and delete blogs about the chosen category. In addition, messages written by readers in the "Call us" section can be read and delete from the "Inbox" section. 
+Finally, this project is developed by using Intelij IDE. I essentially use Java programming language but used utility programming languages such as HTML, CSS, Javascript, MySQL database. You can use the blog web project by logging in with the accounts below.
 
 ## Users on Systems
 
 | Username  | Password |
 | ------------- |:-------------:|
-| eymen      | 12345     |
-| eymen123   | 12345     |
+| ````eruyareymen@gmail.com````      | 12345     |
+| ````ali@mail.com````   | 12345     |
 
 #### Programming Languages and Libraries
 - :arrow_right: Java
