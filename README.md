@@ -1,4 +1,4 @@
-# Java JSP-Servlet-MySQL - Blog Web Project
+# Blog Web Project
 
 # Abstract
 "My Blog" web project is developed to share articles about technology, design, and space. There are six sections in the web page. These sections; Home, About us, Blog, Team, Call us and Login. If you are administor or author, can add, edit and delete blog article. 
